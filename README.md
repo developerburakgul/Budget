@@ -2,9 +2,10 @@
 
 ### Screen
 
-<img alt="InfoPagePage" src="https://github.com/developerburakgul/Budget/budgetPlaner.png" width="250"/>
+![budgetPlaner](https://github.com/user-attachments/assets/caca2b73-326b-47b5-a233-adfd845cd6c3)
 
 ### Description
+
 
 - The design of the application's Info Page screen was implemented using Storyboard.
 
